@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: rgb(50, 241, 177);
+}
+h1 {
+  color: rgb(6, 6, 67);
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 2%;
+  margin-top: 5%;
+}
+.turist {
+  text-align: left;
+  font-size: 20px;
+  color: rgb(55, 55, 146);
+}
+li {
+  display: inline-block;
+  margin-bottom: 2%;
+  color: blue;
+}
+nav {
+  text-align: center;
+}
+h3 {
+  font-style: italic;
+  color: azure;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.roma {
+  border-radius: 50%;
+}
+.poruka {
+  display: inline-block;
+  width: 25px;
+  height: 25%;
+}
+article {
+  color: azure;
+  font-family: "Times New Roman", Times, serif;
+}
+
+footer {
+  height: 15vh;
+  background-color: rgb(37, 70, 70);
+}
+
+[href] {
+  color: blue;
+  font-size: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.kontakt {
+  color: black;
+}
