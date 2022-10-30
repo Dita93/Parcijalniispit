@@ -5,24 +5,30 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background-color: rgb(50, 241, 177);
+  background-image: url(./images/images.jpg);
 }
 h1 {
-  color: rgb(6, 6, 67);
+  color: rgb(11, 222, 183);
   text-align: center;
   font-size: 50px;
   margin-bottom: 2%;
   margin-top: 5%;
 }
+p {
+  color: azure;
+  margin-left: 15%;
+  margin-right: 15%;
+}
 .turist {
-  text-align: left;
+  text-align: center;
   font-size: 20px;
   color: rgb(55, 55, 146);
 }
 
 h3 {
   font-style: italic;
-  color: azure;
+  color: rgb(128, 245, 245);
+  text-align: center;
 }
 img {
   display: block;
@@ -54,7 +60,9 @@ footer {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .kontakt {
-  color: black;
+  color: azure;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 li a {
@@ -85,7 +93,7 @@ span {
 span::after {
   float: right;
   right: 10%;
-  content: "+";
+  content: "";
 }
 
 .slide {
